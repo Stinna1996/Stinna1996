@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Stijn Polak. I work as a Consultant within PwC's SAP team as a certified S/4HANA accounting associate.
+- 👋 Hi, I’m Stijn Polak. I work within PwC's SAP team as a certified S/4HANA accounting associate.
 On Github, I mainly contribute to Python libs, but am planning to contribute to more open source projects. if you need any help, I am always eager to chat!
 - 👀 I’m interested in Python, Python Libraries
 - 🌱 I’m currently learning Pandas Source Code, R, GitBash.
