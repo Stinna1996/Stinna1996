@@ -4,7 +4,7 @@ On Github, I mainly contribute to Python libs, but am planning to contribute to 
 - 🌱 I’m currently learning Pandas Source Code, R, GitBash.
 - 💞️ I’m looking to collaborate on any open source projects that involve programming in the most common languages
 - 📫 How to reach me stijnpolak7@gmail.com
-- 😄 Pronouns:
+- 😄 Pronouns: whatever you prefer
 - ⚡ Fun fact: can type 200 words per minite but can barely hand write..
 
 <!---
