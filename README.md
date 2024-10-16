@@ -5,7 +5,7 @@ On Github, I mainly contribute to Python libs, but am planning to contribute to 
 - 💞️ I’m looking to collaborate on any open source projects that involve programming in the most common languages
 - 📫 How to reach me stijnpolak7@gmail.com
 - 😄 Pronouns: whatever you prefer
-- ⚡ Fun fact: can type 200 words per minite but can barely hand write..
+- ⚡ Fun fact: can type 200 words per minute but can barely hand write..
 
 <!---
 Stinna1996/Stinna1996 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
